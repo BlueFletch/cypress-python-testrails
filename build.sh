@@ -1,0 +1,1 @@
+docker build -t bluefletch/cypress-python-testrails .
